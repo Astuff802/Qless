@@ -2,6 +2,11 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+h1{
+    font-size: 500%;
+    text-align: center;
+}
 canvas {
   display: block;
   width: 400px;
